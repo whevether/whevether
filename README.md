@@ -10,7 +10,7 @@ keep.wan 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-![Mac](https://img.shields.io/badge/-Mac-262577?style=flat-square&logo=Mac&logoColor=white)
+![Mac](https://img.shields.io/badge/-Mac-262577?style=flat-square&logo=MacOS&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=debian&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
