@@ -10,10 +10,12 @@ keep.wan 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+![MacOs](https://img.shields.io/badge/-MacOs-262577?style=flat-square&logo=MacOs&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=debian&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/-Rider-007ACC?style=flat-square&logo=Rider&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat-square&logo=subversion&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-235379?style=flat-square&logo=mysql&logoColor=white)
