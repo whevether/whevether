@@ -29,11 +29,6 @@ keep.wan 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 | *前端* | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Js](https://img.shields.io/badge/-JavaScript-1572B6?style=flat-square&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=React&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-00681c?style=flat-square&logo=vue.js&logoColor=white) |
 
 ## 统计
-
-<img style="width: 480px;" src="https://github-readme-stats-one-bice.vercel.app/api?username=whevether&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
-
-哈哈，开个玩笑，没这么多Star。来个正确的：
-
 <p>
 <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=whevether&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whevether&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
