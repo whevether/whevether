@@ -1,6 +1,5 @@
 # keep.wan [独立开发者](https://github.com/whevether)
 
-<img align="right" src="imgs/rice_shower.jpg" />
 
 简体中文
 
@@ -25,8 +24,8 @@ keep.wan 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 
 | 类别 | 技能 |
 | :---: | :--- |
-| Web 后端 | ![[C#] .net6](https://img.shields.io/badge/C%23-.net-1c93cd?style=flat-square&logo=.NET&logoColor=white) ![[C#] dapr](https://img.shields.io/badge/C%23-dapr-5c99ff?style=flat-square&logo=.NET&logoColor=white) ![[C#] EfCore](https://img.shields.io/badge/C%23-EfCore-f68243?style=flat-square&logo=.NET&logoColor=white) ![[C#] dapper](https://img.shields.io/badge/C%23-dapper-00681c?style=flat-square&logo=.NET&logoColor=white) ![[消息] RabbitMq](https://img.shields.io/badge/MQ-00681c?style=flat-square&logo=RabbitMQ&logoColor=white) ![[缓存] Redis](https://img.shields.io/badge/Redis-00681c?style=flat-square&logo=Redis&logoColor=white) ![[NodeJs] NodeJs](https://img.shields.io/badge/Node-00681c?style=flat-square&logo=NodeJs&logoColor=white) |
-| *前端* | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Js](https://img.shields.io/badge/-JavaScript-1572B6?style=flat-square&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=React&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-00681c?style=flat-square&logo=vue.js&logoColor=white) |
+| Web 后端 | ![[C#] .net6](https://img.shields.io/badge/C%23-.net-1c93cd?style=flat-square&logo=.NET&logoColor=white) ![[C#] dapr](https://img.shields.io/badge/C%23-dapr-5c99ff?style=flat-square&logo=.NET&logoColor=white) ![[C#] GRPC](https://img.shields.io/badge/C%23-GRPC-5c99ff?style=flat-square&logo=GRPC&logoColor=white) ![[C#] EfCore](https://img.shields.io/badge/C%23-EfCore-f68243?style=flat-square&logo=.NET&logoColor=white) ![[C#] dapper](https://img.shields.io/badge/C%23-dapper-00681c?style=flat-square&logo=.NET&logoColor=white) ![[消息] RabbitMq](https://img.shields.io/badge/MQ-00681c?style=flat-square&logo=RabbitMQ&logoColor=white) ![[缓存] Redis](https://img.shields.io/badge/Redis-00681c?style=flat-square&logo=Redis&logoColor=white) ![[NodeJs] express](https://img.shields.io/badge/express-00681c?style=flat-square&logo=express&logoColor=white) |
+| *前端* | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Js](https://img.shields.io/badge/-JavaScript-1572B6?style=flat-square&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=React&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-00681c?style=flat-square&logo=vue.js&logoColor=white) ![kotlin](https://img.shields.io/badge/-kotlin-00681c?style=flat-square&logo=kotlin&logoColor=white)|
 
 ## 统计
 <p>
