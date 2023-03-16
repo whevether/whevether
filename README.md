@@ -1,4 +1,4 @@
-# keep.wan [独立开发者](https://github.com/whevether)
+# keep.wan [开发者](https://github.com/whevether)
 
 
 简体中文
