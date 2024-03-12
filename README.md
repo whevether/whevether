@@ -3,7 +3,7 @@
 
 简体中文
 
-keep.wan 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但是 keep.wan 的 Github 是怎么会事呢？下面大家一起来了解一下吧~
+我是一个开发者keep.wan,这是我github介绍,以及技能介绍
 
 ## 环境
 
