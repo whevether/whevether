@@ -37,7 +37,7 @@
 | <b>模版</b> |  |  |
 | [react-template](https://github.com/whevether/react-template) :earth_asia: | ![https://github.com/whevether/react-template](https://img.shields.io/github/stars/whevether/react-template.svg?style=flat-square) | react webpack 模版|
 | [flutter_bloc_template](https://github.com/whevether/flutter_bloc_template) :earth_asia: | ![https://github.com/whevether/react-template](https://img.shields.io/github/stars/whevether/flutter_bloc_template.svg?style=flat-square) | flutter_bloc_template 模版|
-| [flutter_rtmp_broadcaster](https://github.com/whevether/flutter_rtmp_broadcaster) :earth_asia: | ![https://github.com/whevether/flutter_rtmp_broadcaster](https://img.shields.io/github/stars/whevether/flutter_rtmp_broadcaster.svg?style=flat-square) | react webpack 模版 |
+| [flutter_rtmp_broadcaster](https://github.com/whevether/flutter_rtmp_broadcaster) :earth_asia: | ![https://github.com/whevether/flutter_rtmp_broadcaster](https://img.shields.io/github/stars/whevether/flutter_rtmp_broadcaster.svg?style=flat-square) | flutter rtmp插件 |
 | [asf](https://github.com/whevether/asf) :earth_asia: | ![https://github.com/whevether/asf](https://img.shields.io/github/stars/whevether/asf.svg?style=flat-square) | asf后台服务 |
 | [asf-react](https://github.com/whevether/asf-react) :earth_asia: | ![https://github.com/whevether/asf-react](https://img.shields.io/github/stars/whevether/asf-react.svg?style=flat-square) | asf-react 前端|
 
