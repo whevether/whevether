@@ -45,7 +45,7 @@
 | 仓库 | 星星 | 描述 |
 | :--- | :---: | :--- |
 | <b>模版</b> |  |  |
-| [react-template](https://github.com/whevether/react-template) :earth_asia: | ![https://github.com/whevether/react-template](https://img.shields.io/github/stars/whevether/computer_worldview.svg?style=flat-square) | react webpack 模版|
+| [react-template](https://github.com/whevether/react-template) :earth_asia: | ![https://github.com/whevether/react-template](https://img.shields.io/github/stars/whevether/react-template.svg?style=flat-square) | react webpack 模版|
 
 ## 告诉我一些悄悄话
 
