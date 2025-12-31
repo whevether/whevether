@@ -3,7 +3,7 @@
 
 简体中文
 
-我是一个开发者keep.wan,这是我github介绍,以及技能介绍,现在主要从事移动端kotlin, flutter, react-native以及后端.net8及以上开发工作，开发过多个漫画类,社交类app和马甲包以及音视频插件，对漫画，社交app，以及音视频处理有一定经验。
+我是一个开发者keep.wan,这是我github介绍,以及技能介绍,现在主要从事移动端kotlin, flutter, react-native以及后端.net8及以上开发工作，开发过多个漫画类,社交类app和马甲包以及音视频插件，对漫画，社交app，以及音视频处理有一定经验。ps： 拒绝开发鸿蒙。
 
 ## 环境
 
